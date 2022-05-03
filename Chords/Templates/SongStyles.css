@@ -1,0 +1,32 @@
+﻿div {
+    font-size: large;
+}
+
+
+.titleName {
+    text-transform: uppercase;
+}
+
+.keyChords {
+    font-weight: 700;
+    color: #1E90FF;
+    text-shadow: #535353 -0.5px -0.5px;
+}
+
+
+.chorus {
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+p.block.show-chords span {
+    position: relative;
+    top: -1em;
+    display: inline-block;
+    margin-top: 1em;
+    width: 0;
+    text-shadow: #535353 -0.5px -0.5px;
+    color: #1E90FF;
+    font-weight: bold;
+}
